@@ -28,6 +28,7 @@ body {
 }
 
 .progress-container::before {
+  content:'';
   background-color: #e0e0e0;
   position: absolute;
   top:50%;
@@ -46,6 +47,6 @@ body {
   left: 0;
   transform:translateY(-50%);
   height: 4px;
-  width: 0%;
+  width: 50%;
   z-index:-1;
 }
