@@ -51,3 +51,11 @@ body {
   50%;
   z-index:-1;
 }
+
+.cirle {
+  background-color: #fff;
+  color:#999;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+}
