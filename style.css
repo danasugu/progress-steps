@@ -16,5 +16,10 @@ body {
 
 .container {
   text-align: center;
-  
+}
+
+.progree-container {
+  display: flex;
+  justify-content: space-between;
+
 }
