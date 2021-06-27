@@ -82,5 +82,9 @@ body {
   border: 0;
   border-radius: 6px;
   cursor:pointer;
-  
+  font-family: inherit;
+  padding: 8px 30px;
+  margin: 5px;
+  font-size: 14px;
+
 }
