@@ -18,8 +18,9 @@ body {
   text-align: center;
 }
 
-.progree-container {
+.progress-container {
   display: flex;
   justify-content: space-between;
+  position: relative;
 
 }
