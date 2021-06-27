@@ -58,7 +58,7 @@ body {
   z-index:-1;
 }
 
-.cirle {
+.circle {
   background-color: #fff;
   color:#999;
   border-radius: 50%;
@@ -73,5 +73,10 @@ body {
 
 .circle.active {
   border: var(--line-border-fill);
-  
+
+}
+
+.btn {
+  background-color: var(--line-border-fill);
+  color:#fff;
 }
